@@ -1,1 +1,1 @@
-stds_chatbo
+stds_chatbot
